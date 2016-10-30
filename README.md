@@ -7,6 +7,7 @@ Data-path and controller for a 32-bit CPU for a MIPS like architecture
 The hierarchy of project is as follows:
 
 DataPath is top module and it contains various modules as follows :
+
 1. ProgramCounter
 2. ControlUnit
 3. RegFile
