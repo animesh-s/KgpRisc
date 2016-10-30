@@ -53,11 +53,15 @@ All the modules have been tested using these text fixtures :
 The Instructions are fetched by a .COE file linked with the I_Memory module. The instructions for the ISA are written in the .COE file and gives the instruction value.
 
 The Port A options for the I_Memory are :
+
 1. Read Width = 32 
+
 2. Read Depth = 2048 
 
 The Port A options for the D_Memory are :
+
 1. Write Width = 32
+
 2. Write Depth = 2048
 
 ## Debugging
