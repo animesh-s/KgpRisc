@@ -11,13 +11,19 @@ DataPath is top module and it contains various modules as follows :
 1. ProgramCounter
 2. ControlUnit
 3. RegFile
-4. NextState 
+4. NextState
+
     a) SignExtend_5to32 
+
     b) Lefshiftby2  
+    
     c) RippleCarryAdder
 5. ALU
+
     a) Mux2to1
+    
     b) LogicUnit
+    
     c) RippleCarryAdder
 6. BranchCheck
 7. BranchSelect
